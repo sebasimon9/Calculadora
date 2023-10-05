@@ -63,7 +63,7 @@ body{
    -webkit-backdrop-filter: blur(5.5px);
    background: rgba(255, 255, 255, 0.75);
    border: 1px solid rgba(255, 255, 255, 0.01);
-   border-radius: 16px;
+   border-radius: 20px;
    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
    color: #232323;
    flex-basis: 20%;
@@ -80,7 +80,7 @@ body{
    border-radius: 15px;
    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.1);
    color: #232323;
-   background: #e70878;
+   background: #d31473;
 
 }
 
@@ -94,7 +94,7 @@ body{
 }
 
 .calc-button:active{
-    background-color: #ffef78;
+    background-color: #c4b127;
 }
 
 .double{
